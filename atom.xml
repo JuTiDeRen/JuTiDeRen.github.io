@@ -6,7 +6,7 @@
   <link href="https://jutideren.github.io/atom.xml" rel="self"/>
   
   <link href="https://jutideren.github.io/"/>
-  <updated>2022-09-10T16:08:46.647Z</updated>
+  <updated>2022-09-10T16:33:49.650Z</updated>
   <id>https://jutideren.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://jutideren.github.io/posts/5f262806.html"/>
     <id>https://jutideren.github.io/posts/5f262806.html</id>
     <published>2022-09-10T16:04:48.687Z</published>
-    <updated>2022-09-10T16:08:46.647Z</updated>
+    <updated>2022-09-10T16:33:49.650Z</updated>
     
-    <content type="html"><![CDATA[<p>这是一个test文件</p>]]></content>
+    <content type="html"><![CDATA[<p>这是一个test文件<br>测试自动部署</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这是一个test文件&lt;/p&gt;
+    <summary type="html">&lt;p&gt;这是一个test文件&lt;br&gt;测试自动部署&lt;/p&gt;
 </summary>
       
     
