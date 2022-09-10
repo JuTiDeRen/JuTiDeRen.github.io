@@ -3,11 +3,11 @@
   <title>JuTiDeRen</title>
   
   <subtitle>日拱一卒,功不唐捐</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://jutideren.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://jutideren.github.io/"/>
   <updated>2022-09-10T01:13:01.950Z</updated>
-  <id>http://example.com/</id>
+  <id>https://jutideren.github.io/</id>
   
   <author>
     <name>JuTiDeRen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/undefined.html"/>
-    <id>http://example.com/posts/undefined.html</id>
+    <link href="https://jutideren.github.io/posts/undefined.html"/>
+    <id>https://jutideren.github.io/posts/undefined.html</id>
     <published>2022-09-10T01:13:01.950Z</published>
     <updated>2022-09-10T01:13:01.950Z</updated>
     
